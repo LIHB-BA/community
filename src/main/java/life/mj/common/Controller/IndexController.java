@@ -1,4 +1,4 @@
-package life.mj.common.common.Controller;
+package life.mj.common.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

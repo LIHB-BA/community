@@ -1,4 +1,4 @@
-package life.mj.common.common;
+package life.mj.common;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
