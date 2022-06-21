@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <mysql-version>8.0.17</mysql-version>
+        <mysql-version>8.0.28</mysql-version>
         <mybaties-plus-version>3.1.0</mybaties-plus-version>
     </properties>
 
